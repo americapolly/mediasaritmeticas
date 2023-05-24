@@ -9,7 +9,7 @@ public class Main {
      System.out.print("Digite o segundo número: ");
      y = sc.nextDouble();
      media=(x+y)/2.0;
-     System.out.printIn("Média = " + media);
+     System.out.println("Média = " + media);
      sc.close();
      
    }
